@@ -2,12 +2,6 @@
 
 Rateflix is a movie rating application designed for users to review and rate movies.
 
-## Built With 
-1. Java
-2. Spring Boot
-3. Junit
-4. Mockito
-
 ## Functionality
 
 - Allows users to **add a new movie** to the database.
@@ -15,6 +9,13 @@ Rateflix is a movie rating application designed for users to review and rate mov
 - Lets users **find a movie by its title**.
 - Allows users to di**scover movies based on their genre**.
 - Enables users to **rate and leave reviews for movies**.
+
+## Built With 
+
+1. Java
+2. Spring Boot
+3. Junit
+4. Mockito
 
 
 ## API Documentation
