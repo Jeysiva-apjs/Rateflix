@@ -10,20 +10,11 @@ Rateflix is a movie rating application designed for users to review and rate mov
 
 ## Functionality
 
-### Add a New Movie
-- Allows users to add a new movie to the database.
-
-### Delete an Existing Movie
-- Enables users to remove an existing movie from the database.
-
-### Search a Movie by Title
-- Lets users find a movie by its title.
-
-### Search Movies by Genre
-- Allows users to discover movies based on their genre.
-
-### Rate and Review the Movie
-- Enables users to rate and leave reviews for movies.
+- Allows users to **add a new movie** to the database.
+- Enables users to **remove an existing movie** from the database.
+- Lets users **find a movie by its title**.
+- Allows users to di**scover movies based on their genre**.
+- Enables users to **rate and leave reviews for movies**.
 
 
 ## API Documentation
