@@ -131,16 +131,3 @@ Retrieve reviews for a movie from the database by its ID.
   - `200 OK`: Review deleted successfully.
   - `404 Not Found`: If the specified review ID is not found.
 
-## Error Handling
-- When an error occurs, the API returns an appropriate HTTP status code along with a JSON response body containing details about the error.
-
-## Sample Usage
-### Adding a Review
-```http
-POST http://rateflix.com/review/movie/123
-Content-Type: application/json
-
-{
-    "rating": 4,
-    "comment": "Great movie! Highly recommended."
-}
